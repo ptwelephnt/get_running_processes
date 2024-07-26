@@ -1,2 +1,3 @@
 .venv
 processes.txt
+__pycache__/
